@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: WC Pfand Fee
+ * Plugin Name: Pfand Plus
  * Description: Adds per-product Pfand fees as a separate checkout fee.
  * Requires Plugins: woocommerce
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: Erik Ivanov
  */
 
